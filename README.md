@@ -224,9 +224,9 @@ https://tsheporamantso.github.io/Hello_World/
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Web Accessebility and Anamation]**
+- [ ] **[Media query]**
+- [ ] **[JavaScript functionality]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
